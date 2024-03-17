@@ -1,3 +1,4 @@
+![Profile Picture](/images/profile.jpg)
 # Neuroscience researcher
 
 #### Technical Skills: Python, MATLAB, In Vivo Electrophysiology
