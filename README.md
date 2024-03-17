@@ -1,4 +1,4 @@
-![Profile Picture](/images/github_pic.png)
+![Profile Picture](/images/github_pic.jpg)
 
 # Neuroscience researcher
 
