@@ -1,2 +1,2 @@
-# Meatkiller1993.github.io
+# Neuroscience researcher
 Sihai's personal github io page
