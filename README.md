@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MATLAB, In Vivo Electrophysiology
 
 ## Education
-- M.S., Computer Science | Georgia Institute of Technology (_Jan 2020 - present_)	
+- M.S., Computer Science | Georgia Institute of Technology (_Jan 2023 - present_)	
 - Ph.D., Neuroscience | Wake Forest School of Medicine (_July 2015 - May 2020_)								       			        		
 - B.S., Biological Science | Nanchang University (China) (_Sep 2010 - June 2014_)
 
@@ -29,7 +29,7 @@ primate experiments
 - Analyzed and interpreted neurophysiological data using MATLAB, Microsoft Access and Python
 - Authored 5 publications on top-tier neuroscience journals
 
-## Publications
+## Selected Publications
 1.	Dang, W.*, Li, S.*, Pu, S., Qi, X. L., & Constantinidis, C. (2022). More prominent non-linear mixed selectivity in the dorsolateral prefrontal than posterior parietal cortex. eNeuro, ENEURO.0517-21.2022. 
 2.	Li, S., Constantinidis, C., & Qi, X. L. (2021). Drifts in Prefrontal and Parietal Neuronal Activity Influence Working Memory Judgments. Cereb Cortex, 31(8):3650-3664. 
 3.	Li, S., Zhou, X., Constantinidis, C., & Qi, X. L. (2020). Plasticity of Persistent Activity and Its Constraints. Frontiers in neural circuits, 14, 15.
